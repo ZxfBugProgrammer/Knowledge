@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="247px" preserveAspectRatio="none" style="width:649px;height:247px;background:#FFFFFF;" version="1.1" viewBox="0 0 649 247" width="649px" zoomAndPan="magnify"><defs/><g><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="110" x="10" y="104.4453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="20" y="127.4404">QT多语言方案</text><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="72" x="170" y="20"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="180" y="42.9951">lupdate</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="262" x="295" y="42.9951">从代码中分析并提取待翻译文本 -&gt; ts文件</text><path d="M242,38.1484 L252,38.1484 C267,38.1484 267,38.1484 282,38.1484 L292,38.1484 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M120,122.5938 L130,122.5938 C145,122.5938 145,38.1484 160,38.1484 L170,38.1484 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="93" x="170" y="76.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="180" y="99.292">Qt Linguist</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="316" y="99.292">翻译对应语言的 ts 文件</text><path d="M263,94.4453 L273,94.4453 C288,94.4453 288,94.4453 303,94.4453 L313,94.4453 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M120,122.5938 L130,122.5938 C145,122.5938 145,94.4453 160,94.4453 L170,94.4453 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="74" x="170" y="132.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="180" y="155.5889">lrelease</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="284" x="297" y="155.5889">将翻译完成的ts文件转化为二进制 -&gt; qm文件</text><path d="M244,150.7422 L254,150.7422 C269,150.7422 269,150.7422 284,150.7422 L294,150.7422 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M120,122.5938 L130,122.5938 C145,122.5938 145,150.7422 160,150.7422 L170,150.7422 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><rect fill="#F1F1F1" height="36.2969" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:1.5;" width="160" x="170" y="188.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="180" y="211.8857">应用程序加载翻译文件</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="254" x="383" y="211.8857">QTranslator 根据需要加载对应 qm 文件</text><path d="M330,207.0391 L340,207.0391 C355,207.0391 355,207.0391 370,207.0391 L380,207.0391 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><path d="M120,122.5938 L130,122.5938 C145,122.5938 145,207.0391 160,207.0391 L170,207.0391 " fill="none" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[59dffcbdb020ce33582246da6cbc6bf8]
+@startmindmap QT多语言方案
+* QT多语言方案
+** lupdate
+***_ 从代码中分析并提取待翻译文本 -> ts文件
+** Qt Linguist
+***_ 翻译对应语言的 ts 文件
+** lrelease
+***_ 将翻译完成的ts文件转化为二进制 -> qm文件
+** 应用程序加载翻译文件
+***_ QTranslator 根据需要加载对应 qm 文件
+@endmindmap
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
